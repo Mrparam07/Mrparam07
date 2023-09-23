@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrparam07&label=Profile%20views&color=0e75b6&style=flat" alt="mrparam07" /> </p>
 
-- 🔭 I’m currently working on [100 DaysofCode](https://github.com/Mrparam07/100_day_of_code)
+- 🔭 I’m currently working on [100 DaysofCode](https://github.com/Mrparam07/Striver-SDE-Sheet)
 
-- 🌱 I’m currently learning *MERN, Python, Java*
+- 🌱 I’m currently learning *MERN, Spring, REST-API*
 
-- 👯 I’m looking to collaborate on [Java Calculator](https://github.com/Mrparam07/JavaProject)
+- 👯 I’m looking to collaborate on [Java Calculator](https://github.com/Mrparam07/Spring-REST-API)
 
 - 📫 How to reach me *meparam07@gmail.com*
 
