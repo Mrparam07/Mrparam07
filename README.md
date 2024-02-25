@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Automation]()
 
-- 🌱 I’m currently learning *MERN, Spring, REST-API*
+- 🌱 I’m currently learning *Selenium and Selenide, Spring, REST-API*
 
 - 👯 I’m looking to collaborate on [Spring-Rest-API]()
 
 - 📫 How to reach me *meparam07@gmail.com*
 
-- ⚡ Fun fact *I think I am Funny.*
+- ⚡ Fun fact *Programmers are tools for converting caffeine into code.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
